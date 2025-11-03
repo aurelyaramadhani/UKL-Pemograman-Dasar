@@ -1,0 +1,2 @@
+Program biaya pengiriman berfungsi menghitung total biaya kirim berdasarkan berat, jarak, dan volume paket. Cara kerjanya dengan meminta input data paket, menghitung volume, menentukan biaya per kilogram sesuai jarak, menambah biaya tambahan jika volume lebih dari 100 cm³, lalu menampilkan total biaya.
+Program ganjil genap berfungsi menentukan apakah bilangan yang dimasukkan pengguna termasuk ganjil atau genap dengan cara memeriksa sisa hasil bagi bilangan tersebut dengan dua.
